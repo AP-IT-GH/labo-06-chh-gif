@@ -19,6 +19,17 @@ body {
   line-height: 1.6;
 }
 
+aside {
+  position: absolute;
+bottom: 50px;
+right: 50px;
+  }
+
+  .button {
+    padding: 2px;
+    border: 1px solid black;
+  }
+
 h1,
 h2 {
   font-family: "Comic Sans MS", cursive, sans-serif;
