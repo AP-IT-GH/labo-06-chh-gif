@@ -5,7 +5,8 @@ aside {
   border-radius: 7px;
   background-color: white;
   box-shadow: 3px 4px 20px 0px gray;
-    position: absolute;
+
+    position: fixed;
     bottom: 50px;
     right: 50px;
   /* positioneer dit element in de rechterbenedenhoek */
@@ -20,6 +21,7 @@ body {
   padding: 0;
   line-height: 1.6;
 }
+
 
 
   .button {
